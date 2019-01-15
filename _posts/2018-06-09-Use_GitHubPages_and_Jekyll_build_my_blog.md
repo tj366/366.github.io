@@ -170,6 +170,5 @@ background-image: linear-gradient(140deg,rgba(68, 68, 68, 0.6) 20%, rgba(0, 0, 0
 
 于是发现问题出在cover_color这个变量上，到_config.yml文件中将cover_color变量的值由clear改为空（什么都不写），图像模糊的问题得到解决。
 <br>
-### 整理这么多网址好累，你们有谁要是没两天倒闭了，一定要赔我钱！ 我先倒闭就算了（逃 
 <br>
 *转载请注明原地址，魏鑫燏的博客：[http://slowlythinking.github.io](http://slowlythinking.github.io) 谢谢！*
