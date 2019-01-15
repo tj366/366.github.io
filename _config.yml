@@ -5,7 +5,7 @@ description: Welcome to my personal home page.
 # 头像里面的标题
 avatarTitle: Mike
 # 头像里面的描述
-avatarDesc: Stay hungry, stay foolish.
+avatarDesc: Hungry & Foolish.
 # url: "http://"
 url: "yumeng9.github.io"
 
@@ -23,25 +23,9 @@ social:
     csdn: weixin_36783447
     mail: platoyu@163.com
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-#baidu:
-#    id: 
-
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-# ga:
-#     id: UA-84134159-3   
-#     host: auto  
-
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~ 地址： https://github.com/Ewenwan/ewenwan.github.io
-#
-#
+
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
