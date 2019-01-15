@@ -1,11 +1,11 @@
 # Basic 网站首页基本参数配置
-title: 于猛
-subtitle: 个人博客
-description: 欢迎访问我的个人网站
+title: Mike
+subtitle: Blog
+description: Welcome to my personal home page.
 # 头像里面的标题
-avatarTitle: 猛
+avatarTitle: Mike
 # 头像里面的描述
-avatarDesc: 积善之家 必有余庆
+avatarDesc: Stay hungry, stay foolish.
 # url: "http://"
 url: "yumeng9.github.io"
 
@@ -58,13 +58,13 @@ cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: 主页
+    title: Home page
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于, description: about, url: '/about'}      
+    - {title: blog, description: archive, url: '/archive'}   
+    - {title: tags, description: tags, url: '/tags'}      
+    - {title: about me, description: about, url: '/about'}      
     
 
 # Pagination
