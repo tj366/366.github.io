@@ -3,12 +3,10 @@ layout: post
 title: "GitHub Pages+Jekyll搭建个人博客"
 date: 2018-06-09 
 description: "HEXO配置，HEXO+Github，搭建自己的博客"
-tag: 博客 
+tag: 默认
 ---   
-
-### 大家好，我想死你们啦~
-
-　　博客初步搭建完成，关于Github pages+Jekyll搭建博客的方法已有很多大牛写过相关文章，按照“惯例”，现将搭建过程中使用到的资料整理如下，作为第一篇博客（三年之后回来看，此站总共一篇博客[doge]）：
+[转载]
+博客初步搭建完成，关于Github pages+Jekyll搭建博客的方法已有很多大牛写过相关文章，按照“惯例”，现将搭建过程中使用到的资料整理如下：
 　　
 ### 简易教程
 
