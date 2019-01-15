@@ -1,32 +1,32 @@
 # Basic 网站首页基本参数配置
-title: 万有文
+title: 于猛
 subtitle: 个人博客
-description: 欢迎来到我的个人站~
+description: 欢迎访问我的个人网站
 # 头像里面的标题
-avatarTitle: EwenWan
+avatarTitle: 猛
 # 头像里面的描述
-avatarDesc: C++/Python/机器视觉
-# url: "http://wanyouwen.tech"
-url: "ewenwan.github.io"
+avatarDesc: 积善之家 必有余庆
+# url: "http://"
+url: "yumeng9.github.io"
 
 # Comment
-disqus_username: wanyouwen
+disqus_username: yumeng9
 # disqus_username: http-www-weixinyu-info
 #·comment:
 
 
 # Social 社交账号
 social:
-    weibo: 2986992120
-    github: ewenwan
+    weibo: 2535498167
+    github: yumeng9
     # twitter:
-    csdn: xiaoxiaowenqiang
-    mail: 1756429307y@qq.com
+    csdn: weixin_36783447
+    mail: platoyu@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: c63c3f73d45d69e4524c352af95e094e  
+#baidu:
+#    id: 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
