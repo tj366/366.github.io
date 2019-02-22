@@ -1,27 +1,27 @@
 # Basic 网站首页基本参数配置
-title: Mike
-subtitle: Blog
-description: Welcome to my personal home page.
+title: 城轨安全网
+subtitle: Web
+description: 欢迎访问上海市轨道交通安全风险管理平台
 # 头像里面的标题
-avatarTitle: Mike
+avatarTitle: 城轨安全
 # 头像里面的描述
-avatarDesc: Hungry & Foolish.
+avatarDesc: Safety
 # url: "http://"
-url: "yumeng9.github.io"
+url: "tj366.github.io"
 
 # Comment
-disqus_username: yumeng9
+disqus_username: tj366
 # disqus_username: http-www-weixinyu-info
 #·comment:
 
 
 # Social 社交账号
 social:
-    weibo: 2535498167
-    github: yumeng9
+    # weibo: 2535498167
+    github: tj366
     # twitter:
-    csdn: weixin_36783447
-    mail: platoyu@163.com
+    # csdn: null
+    mail: 1631491@tongji.edu.cn
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
