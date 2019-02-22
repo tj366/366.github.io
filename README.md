@@ -2,7 +2,7 @@
 
 ### What is this about?
 
-This is a website for my project *Metro safety risk evaluation platform*.
+This is a website for my project *Metro Safety Risk Evaluation Platform*.
 
 ### Tips
 
